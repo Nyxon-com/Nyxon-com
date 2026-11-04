@@ -1,8 +1,13 @@
 # Nyxon
 
-Fullstack developer. I build web apps, backend services, and the plugins that run my Minecraft servers.
+Plugin Paper e il backend che li tiene in piedi. I tre sistemi qui sotto girano su ValaryRPG.
 
-## Public repositories
+Portfolio: https://nyxon-com.github.io/nyxon/
 
-- [modernstore](https://github.com/Nyxon-com/modernstore) is a rotating shop for Paper. Items come from weighted pools, prices go through CoinsEngine, and the shop can be edited in game. MIT.
-- [modernCrates](https://github.com/Nyxon-com/modernCrates) is a crate plugin for Paper. It covers physical keys, virtual balances, lootboxes, and an in-game editor. MIT.
+## Lavori
+
+- [modernCore](https://github.com/Nyxon-com/modernCore) è il core modulare per Paper 26.2. Staff, home, warp, chat, kit, sell, spedizioni. Java 25. MIT.
+- [modernCrates](https://github.com/Nyxon-com/modernCrates) gestisce chiavi fisiche, saldo virtuale, lootbox ed editor in game. Paper 26.2. MIT.
+- [modernArena](https://github.com/Nyxon-com/modernArena) copia un template in un'istanza per il party: boss MythicMobs, dungeon a stanze, coda. Paper 1.21.11. MIT.
+
+In pubblico c'è anche [modernStore](https://github.com/Nyxon-com/modernstore): shop a rotazione, pool pesati, prezzi via CoinsEngine. MIT.
